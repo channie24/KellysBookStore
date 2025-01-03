@@ -78,11 +78,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\Book.cs" />
-    <Compile Include="Model\Store.cs" />
     <Compile Include="Model\MonthlySales.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\GoogleBooksAPI.cs" />
+    <Compile Include="Service\Store.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
